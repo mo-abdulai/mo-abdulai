@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About Me👨🏿‍🦱
+### About Me 👨🏿‍🦱
 
 * 👀 I am Mohammed, worked as explore intern(SWE + PM) at Microsoft
 * 💻 I'm a Researcher and Application Developer at Norfolk State University
