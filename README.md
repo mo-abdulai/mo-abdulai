@@ -9,3 +9,9 @@ ______________________
 * 💞 Interest: Playing FIFA playstation, Learning new things, Listening to songs.
 * 💬 Ask me anything about tech
 * 😁 Pronouns: He/Him
+
+
+###Tech Stack
+---------------------
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
