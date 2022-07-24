@@ -39,4 +39,4 @@ ______________________
 Contact Me
 -----------
 
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)%5D(https://twitter.com/mo_abdulai
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white (https://twitter.com/mo_abdulai)
