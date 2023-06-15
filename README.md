@@ -5,10 +5,9 @@ ______________________
 ### About Me 👨🏿‍🦱
 -----------------
 * 👀 I am Mohammed, worked as explore intern(SWE + PM) at Microsoft
-* 💻 I'm a Researcher and Application Developer at Norfolk State University
-* 🎓 I am a senior at Norfolk State University with GPA of 3.73
-* 🌱 I'm currently learning Restful API and React JS
-* 💞 Interest: Playing FIFA playstation, Learning new things, Listening to songs.
+* 💻 I'm a Graduate Assistant and Application Developer at Norfolk State University
+* 🌱 I'm currently learning how to build DApps on ICP with React frontend
+* 💞 Interest: Playing FIFA PlayStation, Learning new things, Listening to songs.
 * 💬 Ask me anything about tech
 * 😁 Pronouns: He/Him
 
