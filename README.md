@@ -4,10 +4,10 @@ ______________________
 
 ### About Me 👨🏿‍🦱
 -----------------
-* 👀 I am Mohammed, worked as explore intern(SWE + PM) at Microsoft
+* 👀 I am Mohammed,
 * 💻 I'm a Graduate Assistant and Application Developer at Norfolk State University
-* 🌱 I'm currently learning how to build DApps on ICP with React frontend
-* 💞 Interest: Playing FIFA PlayStation, Learning new things, Listening to songs.
+* 🌱 I'm currently learning how to build DApps on ICP with Next JS
+* 💞 Interest: Mastering and Learning new things.
 * 💬 Ask me anything about tech
 * 😁 Pronouns: He/Him
 
