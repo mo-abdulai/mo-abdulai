@@ -6,9 +6,9 @@ ______________________
 -----------------
 * 👀 I am Mohammed,
 * 💻 I'm a Graduate Assistant and Application Developer at Norfolk State University
-* 🌱 I'm currently learning how to build DApps on ICP with Next JS
-* 💞 Interest: Mastering and Learning new things.
-* 💬 Ask me anything about tech
+* 🌱 Currently exploring how to build DApps on ICP using Next.js
+* 💞 Passionate about mastering new skills and continuously learning.
+* 💬 Ask me anything tech-related!
 * 😁 Pronouns: He/Him
 
 
