@@ -5,7 +5,7 @@ ______________________
 ### About Me 👨🏿‍🦱
 -----------------
 * 👀 I am Mohammed,
-* 💻 I'm a Graduate Assistant and Application Developer at Norfolk State University
+* 💻 I'm a Graduate Teaching Assistant and Software Engineer at Norfolk State University
 * 🌱 Currently exploring how to build DApps on ICP using Next.js
 * 💞 Passionate about mastering new skills and continuously learning.
 * 💬 Ask me anything tech-related!
