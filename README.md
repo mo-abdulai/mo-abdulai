@@ -4,13 +4,11 @@ ______________________
 
 ### About Me 👨🏿‍🦱
 -----------------
-* 👀 I am Mohammed,
-* 💻 I'm a Graduate Teaching Assistant and Software Engineer at Norfolk State University
-* 🌱 Currently exploring how to build DApps on ICP using Next.js
-* 💞 Passionate about mastering new skills and continuously learning.
-* 💬 Ask me anything tech-related!
+* 👋 My name is Mohammed, and I’m a software engineer passionate about building impactful and scalable applications.
+* 🌱 Currently expanding my knowledge in AI-driven applications, focusing on model explainability, scalable APIs, and modern deployment workflows.
+* 🚀 Motivated by continuous learning, clean architecture, and solving real-world problems through technology.
+* 💬 Always open to tech discussions, collaboration, and interesting engineering challenges.
 * 😁 Pronouns: He/Him
-
 
 ### Tech Stack
 ---------------------
