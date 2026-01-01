@@ -1,15 +1,4 @@
-### Hi there 👋
-______________________
-
-
-### About Me 👨🏿‍🦱
------------------
-* 👋 My name is Mohammed, and I’m a software engineer passionate about building impactful and scalable applications.
-* 🌱 Currently expanding my knowledge in AI-driven applications, focusing on model explainability, scalable APIs, and modern deployment workflows.
-* 🚀 Motivated by continuous learning, clean architecture, and solving real-world problems through technology.
-* 💬 Always open to tech discussions, collaboration, and interesting engineering challenges.
-* 😁 Pronouns: He/Him
-
+### Figuring it out
 ### Tech Stack
 ---------------------
 
